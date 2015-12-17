@@ -1,4 +1,4 @@
-from vendor.little_vendor import Vendor
+from vendor import *
 
 myVendor = Vendor('lucas')
 
